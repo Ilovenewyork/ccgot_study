@@ -1,0 +1,31 @@
+Final Metrics:
+Method: ZeroShot
+  BLEU Score: 12.84
+  BERTScore: 0.90
+  Average Accuracy: 0.56
+  Average Depth: 2.98
+
+Method: ZeroShot-CoT
+  BLEU Score: 13.00
+  BERTScore: 0.90
+  Average Accuracy: 0.56
+  Average Depth: 3.15
+
+Method: FewShot
+  BLEU Score: 14.49
+  BERTScore: 0.90
+  Average Accuracy: 0.59
+  Average Depth: 2.71
+
+Method: CG-CoT
+  BLEU Score: 12.68
+  BERTScore: 0.89
+  Average Accuracy: 0.65
+  Average Depth: 3.77
+
+Method: RAG
+  BLEU Score: 15.76
+  BERTScore: 0.90
+  Average Accuracy: 0.66
+  Average Depth: 3.53
+

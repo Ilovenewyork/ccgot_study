@@ -1,0 +1,49 @@
+Statistical Test Results:
+Comparison: ZeroShot vs ZeroShot-CoT
+Paired t-test:
+  BLEU p-value: nan
+  BERT p-value: No variation
+  Accuracy p-value: No variation
+  Depth p-value: nan
+Wilcoxon test:
+  BLEU p-value: 1.0
+  BERT p-value: No variation
+  Accuracy p-value: No variation
+  Depth p-value: 1.0
+
+Comparison: ZeroShot-CoT vs FewShot
+Paired t-test:
+  BLEU p-value: nan
+  BERT p-value: No variation
+  Accuracy p-value: nan
+  Depth p-value: nan
+Wilcoxon test:
+  BLEU p-value: 1.0
+  BERT p-value: No variation
+  Accuracy p-value: 1.0
+  Depth p-value: 1.0
+
+Comparison: FewShot vs CG-CoT
+Paired t-test:
+  BLEU p-value: nan
+  BERT p-value: nan
+  Accuracy p-value: nan
+  Depth p-value: nan
+Wilcoxon test:
+  BLEU p-value: 1.0
+  BERT p-value: 1.0
+  Accuracy p-value: 1.0
+  Depth p-value: 1.0
+
+Comparison: CG-CoT vs RAG
+Paired t-test:
+  BLEU p-value: nan
+  BERT p-value: nan
+  Accuracy p-value: nan
+  Depth p-value: nan
+Wilcoxon test:
+  BLEU p-value: 1.0
+  BERT p-value: 1.0
+  Accuracy p-value: 1.0
+  Depth p-value: 1.0
+
